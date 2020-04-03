@@ -1,2 +1,5 @@
 # Lab-scan-pare-feu
-Lab scan pare-feu 02 Avril 2020
+Date : 02 Avril 2020
+
+Aller voir le fichier .pdf (réponses aux questions + captures d'écran).
+Travail effectué en même temps que le formateur.
